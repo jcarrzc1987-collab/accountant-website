@@ -4,4 +4,9 @@ Website for Financial Affairs LLC: tax preparation, IRS representation, bookkeep
 
 Live site: https://jcarrzc1987-collab.github.io/accountant-website/
 
-Everything (HTML, CSS, JavaScript and the chat assistant) is in a single file, `index.html`. Edit it and push to `main`; GitHub Pages updates the live site within a minute or two.
+Files:
+
+- `index.html`: page content, plus the JavaScript for the menu, service tabs and chat assistant
+- `styles.css`: all styling (colors, fonts, layout, chat widget)
+
+Edit either file and push to `main`; GitHub Pages updates the live site within a minute or two.
